@@ -8,4 +8,6 @@
   - ![image](https://user-images.githubusercontent.com/82785321/122162813-ffc44a80-ce28-11eb-967b-e4fd2e771fb2.png)
     ![image](https://user-images.githubusercontent.com/82785321/122162836-0eaafd00-ce29-11eb-92fb-45f222e0acb4.png)
 ## Summary:
-  - 
+  - From the results, the temperature in June and December in Oahu do not have big differences, which shows that the temperature in Oahu is relatively stable. The ice crean business should be sustainable year-round.
+  - An additional query can be created to find out the precipitation scores in June and Decembe in order to see how precipitation affect the temperature
+  - An additional query can be created to find out the most actuve statuin, and check the temperature observation data in June and December base on the this station.
